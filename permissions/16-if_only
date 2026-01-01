@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent hello 2>/dev/null || true
+chown --from=gullaume vincent hello
